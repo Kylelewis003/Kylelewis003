@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle Lewis</h1>
-<h3 align="center">A aspiring Full-stack developer from India</h3>
+<h3 align="center">An aspiring Full-stack developer from India</h3>
+
+
 
 - 🔭 I’m currently working on **a Spoify Clone**
 
